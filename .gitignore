@@ -1,0 +1,2 @@
+.hitignore
+docker/dynomodb/*
