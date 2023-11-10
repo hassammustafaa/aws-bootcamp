@@ -1,15 +1,5 @@
 # AWS Cloud Project
 
-- Application: Cruddur
-- Cohort: 2023-A1
-
-This is the starting codebase that will be used in the AWS Cloud Project Bootcamp 2023
-
-
-## Instructions
-
-At the start of the bootcamp you need to create a new Github Repository from this template.
-
 ## Journaling Homework
 
 The `/journal` directory contains
